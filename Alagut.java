@@ -4,6 +4,7 @@ public class Alagut {
 	private KulonlegesHely exitB;
 	
 	Alagut(){
+		System.out.println("Változott a dolog!);
 		
 	}
 	
