@@ -5,7 +5,8 @@ public class Alagut {
 	
 	Alagut(){
 		System.out.println("Változott a dolog!);
-				   System.out.println("Változott a dolog!);
+				   System.out.println("Változott a dolog!");
+				   int a  = 10;
 		
 	}
 	
